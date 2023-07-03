@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">621566876923-apfonbae5kre0jg10d4ck34ggr7jb8jd.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://moment-global-dev.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">621566876923</string>
+    <string name="google_api_key" translatable="false">AIzaSyCEgRlGU_maGpK5hUy9cqBl73hbApy0S9w</string>
+    <string name="google_app_id" translatable="false">1:621566876923:android:ec9f02dcc3339fcf5d645e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCEgRlGU_maGpK5hUy9cqBl73hbApy0S9w</string>
+    <string name="google_storage_bucket" translatable="false">moment-global-dev.appspot.com</string>
+    <string name="project_id" translatable="false">moment-global-dev</string>
+</resources>

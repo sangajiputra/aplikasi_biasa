@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "MyMoment",
+    "slug": "MomentApp",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 6000
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.archon.momentapp",
+      "versionCode": 1
+    },
+    "description": "",
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  },
+  "displayName": "MyMoment",
+  "name": "MyMoment"
+}

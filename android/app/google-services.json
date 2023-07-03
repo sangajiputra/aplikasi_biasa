@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "621566876923",
+    "firebase_url": "https://moment-global-dev.firebaseio.com",
+    "project_id": "moment-global-dev",
+    "storage_bucket": "moment-global-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621566876923:android:ec9f02dcc3339fcf5d645e",
+        "android_client_info": {
+          "package_name": "com.mymoment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621566876923-apfonbae5kre0jg10d4ck34ggr7jb8jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEgRlGU_maGpK5hUy9cqBl73hbApy0S9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621566876923-apfonbae5kre0jg10d4ck34ggr7jb8jd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "621566876923-5mcaaig6dftc5e76s3bnfgic89evcg3e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.momentglobal.mymoment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

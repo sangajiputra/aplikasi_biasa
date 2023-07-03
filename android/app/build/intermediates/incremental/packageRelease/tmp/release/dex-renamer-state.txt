@@ -1,0 +1,7 @@
+#Fri Aug 20 15:36:23 ICT 2021
+base.0=D\:\\Apps\\MomentApp\\android\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Apps\\MomentApp\\android\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
